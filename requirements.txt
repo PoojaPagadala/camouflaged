@@ -2,3 +2,4 @@ flask
 torch
 transformers
 Pillow
+gunicorn==20.1.0
